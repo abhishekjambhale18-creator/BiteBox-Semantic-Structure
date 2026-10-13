@@ -58,4 +58,4 @@ HTML5
 ---
 
 **Series Navigation**  
-← [Lab 4 – Menu Enhancement](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Enhancement) | [Lab 6 – HTML Tables](https://github.com/abhishekjambhale18-creator/BiteBox-HTML-Tables) →
+← [Lab 4 – Menu Enhancement](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Enhancement) | [Lab 6 – HTML Tables](https://github.com/abhishekjambhale18-creator/BiteBox-Menu-Table) →
